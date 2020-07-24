@@ -1,0 +1,5 @@
+bin/
+obj/
+UnityEngine.dll
+PersistentFileManagement.cs
+.DS_Store
